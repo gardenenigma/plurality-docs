@@ -1,3 +1,10 @@
 site_name: Plurality Docs
+site_url: https://example.com/
 theme:
   name: material 
+nav:
+  - Home: index.md
+  - Gov4Git and PMP: docs/Gov4Git and PMP.md
+  - Translation Contributor Onboarding: docs/contribute translations to the ⿻ book.md
+  - Citation Style Guide: docs/citation style guide.md
+  - Style Guide: docs/Style Guide.md
