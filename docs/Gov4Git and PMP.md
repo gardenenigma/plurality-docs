@@ -1,3 +1,7 @@
+---
+title: Gov4Git and PMP
+---
+
 # ⿻ Plural Management of ⿻ 數位 Plurality
 
 Plurality aims to tell the world how collaborative technology can remake how we work and govern together. Yet it also aims to show these ideas working in practice, building the book according to the principles the book articulates. This is a challenge, obviously, because it is a book about innovation and thus platforms for the things we want to show do not exist: we are building them as we go in the process of writing the book! This document aims to outline for users the who, what, why, when, where and how of participating in the book’s creation.
@@ -8,7 +12,7 @@ We have several interlocking goals in the design of our management system:
 1. We want to recognize contributions and prioritize work formally, quantitatively and democratically, in contrast to the informal and often confusing methods typical in open source while at the same time...
 2. We want to avoid speculation, financialization and external fungibility of this credit.
 3. We want to instantiate (advanced, plural) democratic control over the direction of the project and eventually turn over maintenance of the project to the community, thereby allowing maintenance to scale as smoothly as contributions while at the same time...
-4. We want to secure the system against potentially malicious attack, ensuring that this democratization and decentralization happens gradually and does not occur at the expensive of the integrity of the content to the values of the community.
+4. We want to secure the system against potentially malicious attack, ensuring that this democratization and decentralization happens gradually and does not occur at the expense of the integrity of the content to the values of the community.
 
 A key device to jointly accomplish these goals is our system of plural credits, a non-fungible community currency of credits.
 

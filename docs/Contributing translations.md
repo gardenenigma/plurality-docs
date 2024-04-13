@@ -1,4 +1,8 @@
-# Plurality Translation Contributor Onboarding
+---
+title: Contributing translations
+---
+
+# Contributing translations
 
 >👋 Welcome! This document aims to help onboard new contributors from different regional communities to help translate the Plurality book.
 
@@ -44,7 +48,7 @@ Is there a point of contact or thread already for your language / region?
 
 * Aki will approve incoming pull requests in order for the content to be shown on the website
 
-### References
+## References
 
 > Feel free to ask any questions in Discord under **Contributors** category
 

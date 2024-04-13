@@ -1,12 +1,31 @@
 site_name: Plurality Docs
-site_url: https://example.com/
-
 nav:
-  - Home: index.md
-  - Gov4Git and PMP: Gov4Git and PMP.md
-  - Translation Contributor Onboarding: contribute translations to the ⿻ book.md
-  - Citation Style Guide: citation style guide.md
-  - Style Guide: Style Guide.md
+- Home: index.md
 
+- Welcome: 
+  - Welcome: Welcome.md
+  
+- Contributing to the project:
+  - Getting started: Getting started as a contributor.md
+  - Content and edits: Contributing content and edits.md
+  - Translations: Contributing translations.md
+  - Figures and images: Contributing figures.md
+  - Citations and references: Contributing citations.md
+  - Help docs: Contributing to the docs.md
+  - Contributing in other ways: Contributing in other ways.md
+
+- Style guide:
+  - Style guide introduction: Style guide introduction.md
+  - Book structure: Style guide book structure.md
+  - Punctuation and grammar: Style guide punctuation and grammar.md
+  - Figures: Style guide figures.md
+  - Citations and referencing: Style guide citations and referencing.md
+
+- Project Governance:
+  - Gov4Git and PMP: Gov4Git and PMP.md
+
+- Testing things:
+  - insert test: insertTest.md
+  - Adrian: adrian.md
 theme:
   name: material
