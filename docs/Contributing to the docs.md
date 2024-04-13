@@ -2,6 +2,6 @@
 title: Contributing citations
 ---
 
-# Contributing citations
+# Contributing to the docs
 
-> Brief info about contributing in other ways
+> Brief info about contributing to the docs
