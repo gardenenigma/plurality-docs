@@ -3,14 +3,14 @@ theme:
   name: material
   palette:
     primary: black
-  logo: assets\plurality logo.png
-  favicon: assets\favicon.png
+  logo: assets/plurality logo.png
+  favicon: assets/favicon.png
 
 nav: 
 - Home: 
   - Welcome: index.md
   - Copyright: Copyright.md
-  - Citing the book: Citing the book
+  - Citing the book: Citing the book.md
  
 - Contributing to the project:
   - Getting started: Getting started as a contributor.md
