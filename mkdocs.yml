@@ -1,10 +1,10 @@
 site_name: Plurality Docs
-nav:
-- Home: index.md
 
-- Welcome: 
-  - Welcome: Welcome.md
-  
+nav: 
+- Home: 
+  - Welcome: index.md
+  - What are these docs?: Welcome.md
+ 
 - Contributing to the project:
   - Getting started: Getting started as a contributor.md
   - Content and edits: Contributing content and edits.md
@@ -24,8 +24,5 @@ nav:
 - Project Governance:
   - Gov4Git and PMP: Gov4Git and PMP.md
 
-- Testing things:
-  - insert test: insertTest.md
-  - Adrian: adrian.md
 theme:
   name: material
