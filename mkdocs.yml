@@ -1,4 +1,10 @@
 site_name: Plurality Docs
+theme:
+  name: material
+  palette:
+    primary: black
+  logo: assets\plurality logo.png
+  favicon: assets\favicon.png
 
 nav: 
 - Home: 
@@ -24,6 +30,3 @@ nav:
 
 - Project Governance:
   - Gov4Git and PMP: Gov4Git and PMP.md
-
-theme:
-  name: material
