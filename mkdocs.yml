@@ -3,7 +3,8 @@ site_name: Plurality Docs
 nav: 
 - Home: 
   - Welcome: index.md
-  - What are these docs?: Welcome.md
+  - Copyright: Copyright.md
+  - Citing the book: Citing the book
  
 - Contributing to the project:
   - Getting started: Getting started as a contributor.md
