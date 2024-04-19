@@ -7,26 +7,32 @@ theme:
   favicon: assets/favicon.png
 
 nav: 
-- Home: 
+- Start here: 
   - Welcome: index.md
-  - Copyright: Copyright.md
-  - Citing the book: Citing the book.md
+  - Governance and progressive decentralization: Home governance and progressive decentralization.md
+  - Financial goals: Home financial goals.md
+  - Copyright: Home copyright.md
+  - Citing the book: Home citing the book.md
  
 - Contributing to the project:
-  - Getting started: Getting started as a contributor.md
+  - Getting started: Contributing getting started as a contributor.md
+  - Editing and pull requests: Home editing and pull requests.md
   - Content and edits: Contributing content and edits.md
   - Translations: Contributing translations.md
   - Figures and images: Contributing figures.md
   - Citations and references: Contributing citations.md
-  - Help docs: Contributing to the docs.md
+  - Documentation: Contributing to the docs.md
   - Contributing in other ways: Contributing in other ways.md
 
-- Style guide:
+- Book style guide:
   - Style guide introduction: Style guide introduction.md
   - Book structure: Style guide book structure.md
   - Punctuation and grammar: Style guide punctuation and grammar.md
   - Figures: Style guide figures.md
   - Citations and referencing: Style guide citations and referencing.md
 
-- Project Governance:
-  - Gov4Git and PMP: Gov4Git and PMP.md
+- Governance of the project:
+  - Introduction: Governance introduction.md
+  - Plural Credits: Governance plural credits.md
+  - Gov4Git: Governance Gov4Git.md
+  - Plural Management Protocol: Governance PMP.md

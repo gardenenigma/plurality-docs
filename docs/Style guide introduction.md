@@ -6,7 +6,7 @@ title: Style guide introduction
 
 >  This sections below provide stylistic guidance for contributors who are in the process of adding content to *⿻數位 Plurality*.  
 >
-> If you are new to the project and would like to learn how to contribute, you can start learning [here](Getting started as a contributor.md).
+> If you are new to the project and would like to learn how to contribute, you can start learning [here](Contributing getting started as a contributor.md).
 
 
 
