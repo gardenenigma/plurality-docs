@@ -1,5 +1,9 @@
 ---
 title: Governance introduction
+author:
+date: 
+tags:
+  - 
 ---
 
 # Governance introduction

@@ -1,5 +1,9 @@
 ---
 title: Style guide structure
+author:
+date: 
+tags:
+  - 
 ---
 # Structure
 > *⿻數位 Plurality* is broken up into different components which are referred to as *Parts*, *Chapters*, *Sections*, and occasional *Subsections*.

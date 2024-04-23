@@ -1,5 +1,9 @@
 ---
 title: 
+author:
+date: 
+tags:
+  - 
 ---
 # Copyright
 

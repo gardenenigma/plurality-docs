@@ -1,5 +1,9 @@
 ---
 Title: Governance and progressice decentralization
+author:
+date: 
+tags:
+  - 
 ---
 
 # Governance and progressive decentralization

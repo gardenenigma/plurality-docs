@@ -1,5 +1,9 @@
 ---
 title: Style guide introduction
+author:
+date: 
+tags:
+  - 
 ---
 
 # Style guide for ⿻數位 Plurality

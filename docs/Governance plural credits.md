@@ -1,5 +1,9 @@
 ---
 Title: Governance plural credits
+author:
+date: 
+tags:
+  - 
 ---
 
 # Plural Credits

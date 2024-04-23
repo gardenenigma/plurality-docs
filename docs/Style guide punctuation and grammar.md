@@ -1,5 +1,9 @@
 ---
 title: Style guide punctuation and grammar
+author:
+date: 
+tags:
+  - 
 ---
 
 # Punctuation and grammar

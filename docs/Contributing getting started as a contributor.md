@@ -1,5 +1,9 @@
 ---
 Title: Getting started as a contributor
+author:
+date: 
+tags:
+  - 
 ---
 
 # Getting started as a contributor

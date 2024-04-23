@@ -1,5 +1,9 @@
 ---
-Title: Financial goals
+title: Financial goals
+author:
+date: 
+tags:
+  - 
 ---
 
 # Financial goals

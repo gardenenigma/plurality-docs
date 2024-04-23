@@ -1,5 +1,9 @@
 ---
 title: Style guide figures
+author:
+date: 
+tags:
+  - 
 ---
 # Figures
 

@@ -1,5 +1,9 @@
 ---
 title: Citing the book
+author:
+date: 
+tags:
+  - 
 ---
 
 # Citing the book

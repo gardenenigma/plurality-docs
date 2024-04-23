@@ -1,5 +1,9 @@
 ---
 Title: Governance PMP
+author:
+date: 
+tags:
+  - 
 ---
 
 # Plural Management Protocol

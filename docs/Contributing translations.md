@@ -1,5 +1,9 @@
 ---
 title: Contributing translations
+author:
+date: 
+tags:
+  - 
 ---
 
 # Contributing translations
