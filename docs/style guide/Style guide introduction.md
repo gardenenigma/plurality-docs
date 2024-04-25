@@ -6,7 +6,7 @@ tags:
   - 
 ---
 
-# Style guide for ⿻數位 Plurality
+# Style guide for Plurality
 
 > This sections below provide stylistic guidance for contributors who are in the process of adding content to *⿻數位 Plurality*.  
 >
