@@ -1,4 +1,7 @@
 site_name: Plurality Docs
+docs_dir: docs
+
+
 theme:
   name: material
   palette:
@@ -9,30 +12,30 @@ theme:
 nav: 
 - Start here: 
   - Welcome: index.md
-  - Governance and progressive decentralization: Home governance and progressive decentralization.md
-  - Financial goals: Home financial goals.md
-  - Copyright: Home copyright.md
-  - Citing the book: Home citing the book.md
+  - Governance and progressive decentralization: home/Home governance and progressive decentralization.md
+  - Financial goals: home/Home financial goals.md
+  - Copyright: home/Home copyright.md
+  - Citing the book: home/Home citing the book.md
  
 - Contributing to the project:
-  - Getting started: Contributing getting started as a contributor.md
-  - Editing and pull requests: Home editing and pull requests.md
-  - Content and edits: Contributing content and edits.md
-  - Translations: Contributing translations.md
-  - Figures and images: Contributing figures.md
-  - Citations and references: Contributing citations.md
-  - Documentation: Contributing to the docs.md
-  - Contributing in other ways: Contributing in other ways.md
+  - Getting started: contributing/Contributing getting started as a contributor.md
+  - Editing and pull requests: contributing/Contributing editing and pull requests.md
+  - Content and edits: contributing/Contributing content and edits.md
+  - Translations: contributing/Contributing translations.md
+  - Figures and images: contributing/Contributing figures.md
+  - Citations and references: contributing/Contributing citations.md
+  - Documentation: contributing/Contributing to the docs.md
+  - Contributing in other ways: contributing/Contributing in other ways.md
 
 - Book style guide:
-  - Style guide introduction: Style guide introduction.md
-  - Book structure: Style guide book structure.md
-  - Punctuation and grammar: Style guide punctuation and grammar.md
-  - Figures: Style guide figures.md
-  - Citations and referencing: Style guide citations and referencing.md
+  - Style guide introduction: style guide/Style guide introduction.md
+  - Book structure: style guide/Style guide book structure.md
+  - Punctuation and grammar: style guide/Style guide punctuation and grammar.md
+  - Figures: style guide/Style guide figures.md
+  - Citations and referencing: style guide/Style guide citations and referencing.md
 
 - Governance of the project:
-  - Introduction: Governance introduction.md
-  - Plural Credits: Governance plural credits.md
-  - Gov4Git: Governance Gov4Git.md
-  - Plural Management Protocol: Governance PMP.md
+  - Introduction: governance/Governance introduction.md
+  - Plural Credits: governance/Governance plural credits.md
+  - Gov4Git: governance/Governance Gov4Git.md
+  - Plural Management Protocol: governance/Governance PMP.md
