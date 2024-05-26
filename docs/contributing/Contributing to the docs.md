@@ -8,4 +8,6 @@ tags:
 
 # Contributing to the docs
 
-> Brief info about contributing to the docs
+> Work in progress
+
+---

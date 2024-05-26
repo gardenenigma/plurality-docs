@@ -8,4 +8,6 @@ tags:
 
 # Contributing content and edits
 
-> Brief info about contributing edits
+> Work in progress
+
+---

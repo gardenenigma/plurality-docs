@@ -7,7 +7,11 @@ tags:
 ---
 
 # Punctuation and grammar
-> Information about the punctuation and grammar
+
+> Work in progress
+
+---
+
 ## Capitalization
 
 Chapter titles are fully capitalized; only the first letter of Sections are titled.

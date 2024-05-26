@@ -5,10 +5,12 @@ date:
 tags:
   - 
 ---
+
 # Structure
-> *⿻數位 Plurality* is broken up into different components which are referred to as *Parts*, *Chapters*, *Sections*, and occasional *Subsections*.
->
-> These components are indicated in the markdown file name and/or within the markdown file itself.
+
+> The Plurality bookis broken up into different components which are referred to as *Parts*, *Chapters*, *Sections*, and occasional *Subsections*.
+
+---
 
 ## Parts
 

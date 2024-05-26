@@ -8,4 +8,6 @@ tags:
 
 # Contributing in other ways
 
-> Brief info about contributing in other ways
+> Work in progress
+
+---

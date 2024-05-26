@@ -8,4 +8,6 @@ tags:
 
 # Contributing figures
 
-> Brief overview of contriuting figures
+> Work in progress
+
+---

@@ -8,4 +8,6 @@ tags:
 
 # Contributing citations and references
 
-> Brief info about contributing citations and references
+> Work in progress
+
+---

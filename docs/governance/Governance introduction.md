@@ -10,9 +10,11 @@ tags:
 
 > The ideas described in Plurality aim to tell the world how collaborative technology can remake how we work and govern together. The Plurality community also aims show how these ideas can work in practice.
 
-To do this, the Plurality book will be built using the principles that are described in the book. This is a challenge because it is a book about innovation and thus the platforms for the things we want to show do not exist: we are building them as we go in the process of writing the book!
+---
 
 ## Governance goals
+
+To begin reimagining how we can govern together, the Plurality book will be built using the principles that are described in the book. This is a challenge because it is a book about innovation and thus the platforms for the things we want to show do not exist: we are building them as we go in the process of writing the book!
 
 We have several interlocking goals in the design of our management system:
 

@@ -5,11 +5,14 @@ date:
 tags:
   - 
 ---
+
 # Figures
 
-> This article provides information on figure style recommendations. For information on how to add a figure to ⿻數位 Plurality, see [Contributing figures](../contributing/Contributing figures.md).
->
-> If you have any questions about a figure that you would like to add, visit the discord and ask your question in the [#data](https://discord.com/channels/1133444567031627846/1212804858457890927) channel.
+> Work in progress
+
+---
+
+If you have any questions about a figure that you would like to add, visit the discord and ask your question in the [#data](https://discord.com/channels/1133444567031627846/1212804858457890927) channel.
 
 ## Figure syntax
 

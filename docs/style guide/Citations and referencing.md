@@ -5,10 +5,14 @@ date:
 tags:
   - 
 ---
+
 # Citations and references
-> This article provides information on citation style recommendations. For information on how to add a citations to ⿻數位 Plurality, see [Contributing citations](../contributing/Contributing citations.md).
->
-> The book currently uses the Chicago Manual of Style for citations. For more information and examples citating using on the Chicago Manual of style, see [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html).
+
+> Work in progress
+
+---
+
+The book currently uses the Chicago Manual of Style for citations. For more information and examples citating using on the Chicago Manual of style, see [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-1.html).
 
 ### Citing a book
 

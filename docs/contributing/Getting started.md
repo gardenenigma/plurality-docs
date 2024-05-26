@@ -1,5 +1,5 @@
 ---
-Title: Getting started as a contributor
+title: Getting started as a contributor
 author:
 date: 
 tags:
@@ -10,9 +10,12 @@ tags:
 
 > While this project will begin as a traditional open-source community, we eventually hope to provide more formal governance, participation, control rights and recognition of contributions than has been customary in such projects.  
 
+---
+
 We believe such features are important for open-source projects like this one to sustainably scale while staying true to their values. As such, a primary goal of our management of this project will be to clearly and (for the most part) publicly recognize contributions with both qualitative (viz. what kind of contribution was made) and quantitative (viz. how important was the contribution) tokens. 
 
 However, these tokens cannot be traded/transferred directly across users; they are relevant only to governance of and participation in this community and are not intended to have any external financial value, except through the value of the community as a whole.  We may raise some funds to support the community and the community will govern these funds.  However, credit is a marker of contribution and entitlement to governance, not to direct external financial gain.
+
 Contributions will be of many kinds.  
 
 ## Potential ways to contribute

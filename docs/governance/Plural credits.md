@@ -1,5 +1,5 @@
 ---
-Title: Governance plural credits
+Title: Plural credits
 author:
 date: 
 tags:
@@ -9,6 +9,10 @@ tags:
 # Plural Credits
 
 > A key device that will be used by the community to accomplish our [governance goals](Governance introduction.md) is a system of unique credits we call Plural Credits.
+
+---
+
+## What are Plural Credits?
 
 Plural credits (PCs) are used to formally recognize when someone contributes to the project. PCs will initially be interchangeable, quantitative, and divisible indicators of contribution. Individuals will not be able to transfer or sell credits to one another. While of no (direct) financial value, PCs will entitle holders to several social benefits.
 

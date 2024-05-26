@@ -8,15 +8,17 @@ tags:
 
 # Contributing translations
 
->👋 Welcome! This document aims to help onboard new contributors from different regional communities to help translate the Plurality book.
+> We need local communities’s help to populate the book’s content in as many languages around the world as possible!
 
-[Plurality](https://www.plurality.net/) is an open, git-based collaborative book project that aims to offer a vision for the future of technology focused around empowering and bridging social difference.
+---
 
-We need local communities’s help to populate the book’s content in as many languages around the world as possible
+## List of translation repositories
+
+Work in progress
 
 ## Contributor
 
-> *Reach out to Jacky or Jason if there are any questions here*
+*Reach out to Jacky or Jason if there are any questions here*
 
 Join the [Plurality.net](http://Plurality.net) Discord server for contributors: https://discord.gg/nTH7GqprwY
 
@@ -26,9 +28,9 @@ Is there a point of contact or thread already for your language / region?
 * if no, tag Jacky in #general under Contributors to get onboarded
 ![discord screenshot of translations tab](assets\translation-screenshot-01.png)
 
-## Translation Process
+## Translation process
 
-> *Reach out to Jacky if there are any questions here*
+*Reach out to Jacky if there are any questions here*
 
 * English and Traditional Mandarin are considered the root language that will be directly uploaded to the root repository. Translations of other languages will need to be done in forks from the root to decentralize and streamline each community’s independent workflow.
 ![translation git repos](assets/translation-screenshot-02.png)
@@ -37,9 +39,9 @@ Is there a point of contact or thread already for your language / region?
     * please name the fork with book name + language name for easier recognizability (e.g plurality-japanese)
 * Reach out to Jacky or Jason in Discord to get the forked repository verified as an official translation repository to be listed in the root repository’s Readme page [here](https://github.com/pluralitybook/plurality#official-active-translation-repositories)
 
-## Publication Workflow
+## Publication workflow
 
-> *Reach out to Aki or Jacky if there are any questions here. Many steps are still quite manual, the process should become easier as more people go through them.*
+*Reach out to Aki or Jacky if there are any questions here. Many steps are still quite manual, the process should become easier as more people go through them.*
 
 * Start with translating the announcement if its not already translated, and submit it to be added under the different versions of the [announcement in GitHub](https://github.com/alexrandaccio/plurality.net/tree/main/src/site/versions).
 ![alt text](assets/translation-screenshot-03.png)
@@ -54,7 +56,7 @@ Is there a point of contact or thread already for your language / region?
 
 ## References
 
-> Feel free to ask any questions in Discord under **Contributors** category
+Feel free to ask any questions in Discord under **Contributors** category
 
 * Discord Server: https://discord.gg/nTH7GqprwY
 * Plurality Website: https://www.plurality.net/

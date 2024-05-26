@@ -1,14 +1,18 @@
 ---
-title:
+title: Pull requests
 author:
 date: 
 tags:
   - 
 ---
 
-# Editing and pull requests
+# Pull requests
 
-> While there will be many types of contributions, arguably the focal and most common one will be editing of the root book.  
+> Work in progress
+
+---
+
+While there will be many types of contributions, arguably the focal and most common one will be editing of the root book.  
 
 This will happen through the standard git issue-fork-pull request-merge process which we will not discuss further here, as it is well documented in many places online.  As such, several central sources of credit and contribution will be related to this process and they are worth discussing in a bit greater detail here.
 

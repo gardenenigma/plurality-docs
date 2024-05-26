@@ -1,5 +1,5 @@
 ---
-Title: Governance PMP
+Title: Plural Management Protocol
 author:
 date: 
 tags:
@@ -8,7 +8,11 @@ tags:
 
 # Plural Management Protocol
 
-> While the Gov4Git protocol offers a foundational layer for an essentially-arbitrary range of governance mechanics, the governance mechanism that we plan to implement is the Plural Management Protocol (PMP). 
+> While the Gov4Git protocol offers a foundational layer for an essentially-arbitrary range of governance mechanics, the governance mechanism that we plan to implement is the Plural Management Protocol (PMP).
+
+---
+
+## What is the Plural Management Protocol?
 
 The PMP harnesses and combines a range of the mechanisms described in the book to allow us to achieve our goals. Full details of the PMP can be found in the [Plural Management paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4688040).
 
