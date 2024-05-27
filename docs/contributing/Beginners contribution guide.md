@@ -53,6 +53,8 @@ If you become stuck on any of the steps, a member of the community on the Discor
 
 Now that you have an overview of what is in this guide, you're all set to dive in and take your first exciting step!
 
+---
+
 ## Step 1: Understand your working environment
 
 ### What is an open source project?
@@ -125,6 +127,8 @@ To download Git, complete the following steps:
 7. After the installation is complete you do not need to launch Git Bash or view the release notes
 
 Now that you have set up your code editor and installed Git, you are ready to check out the files of the Plurality project and see what type of contributions you can make. To do this, you will first need to navigate to GitHub and make an account. This is covered in the next step. 
+
+---
 
 ## Step 3: Create a GitHub account and browse the Issues
 
